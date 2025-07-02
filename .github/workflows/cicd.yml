@@ -2,6 +2,7 @@ name: LINT-TEST-BUILD-CHECK
 on:
   push:
     branches: [ dev ]
+
 jobs:
 
   lint:
