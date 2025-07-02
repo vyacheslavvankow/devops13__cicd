@@ -8,7 +8,7 @@ class TestMe():
     '''For me'''
     def take_five(self):
         return 5
-    
+
     def port(self):
         '''port'''
         return PORT
